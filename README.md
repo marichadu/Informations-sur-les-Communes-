@@ -40,4 +40,4 @@ Ce projet permet de sélectionner un département et une ville pour afficher les
 ## Ressources
 
 - [Leaflet.js](https://leafletjs.com/) : Une bibliothèque JavaScript open-source pour les cartes interactives.
-- [API Géo](https://geo.api.gouv.fr/) : Une API pour accéder aux données géographiques des communes françaises.
+- [API Géo](https://api.gouv.fr/documentation/api-geo) : Une API pour accéder aux données géographiques des communes françaises.
