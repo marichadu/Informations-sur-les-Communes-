@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Communes</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Informations sur les Communes</h1>
+        <p>Sélectionnez un département et une ville pour afficher les informations correspondantes et voir l'emplacement de la mairie sur la carte.</p>
+        <label for="dep">Département :</label>
+        <select id="dep">
+            <option value="" checked disabled>- Département -</option>
+        </select>
+        <label for="cities">Ville :</label>
+        <select id="cities">
+            <option value="" checked disabled>- Communes -</option>
+        </select>
+    </div>
+    <div id="commune-info"></div>
+    <div id="map" style="height: 400px; width: 100%; margin-top: 20px;"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
