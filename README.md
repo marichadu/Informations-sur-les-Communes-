@@ -27,7 +27,7 @@ Ce projet permet de sélectionner un département et une ville pour afficher les
 
 - `index.html` : Le fichier HTML principal contenant la structure de la page.
 - `styles.css` : Le fichier CSS pour le style de la page.
-- [script.js](http://_vscodecontentref_/0) : Le fichier JavaScript contenant la logique pour peupler les départements, les villes et afficher les informations de la ville sélectionnée.
+- 'script.js' : Le fichier JavaScript contenant la logique pour peupler les départements, les villes et afficher les informations de la ville sélectionnée.
 
 ## Utilisation
 
