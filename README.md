@@ -18,7 +18,7 @@ Ce projet permet de sélectionner un département et une ville pour afficher les
 
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/votre-utilisateur/communes.git
+    git clone https://github.com/marichadu/Informations-sur-les-Communes-.git
     ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur web.
